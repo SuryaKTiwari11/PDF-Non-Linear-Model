@@ -54,12 +54,12 @@ p̂(z) = c _ exp( -λ _ (z - μ)² )
 
 The parameters of the PDF are learned using statistical estimation:
 
-- μ (Mean) is estimated as the sample mean of z
-- σ² (Variance) is computed from the transformed data
-- λ (Lambda) is calculated as:  
-  λ = 1 / (2 \* σ²)
-- c (Normalization constant) is calculated as:  
-  c = sqrt( λ / π )
+μ (Mean) is estimated as the sample mean of z
+σ² (Variance) is computed from the transformed data
+λ (Lambda) is calculated as:  
+ λ = 1 / (2 \* σ²)
+c (Normalization constant) is calculated as:  
+ c = sqrt( λ / π )
 
 This ensures that the probability density function integrates to 1.
 
@@ -80,6 +80,9 @@ The estimated parameters obtained after applying the transformation and learning
 | μ (Mean)                   | 25.805243726878015    |
 | λ (Lambda)                 | 0.0014598199664885554 |
 | c (Normalization Constant) | 0.021556324533226836  |
+| μ (Mean)                   | 25.804091267939096    |
+| λ (Lambda)                 | 0.0014593812811420303 |
+| c (Normalization Constant) | 0.021553085382354755  |
 
 These values are specific to the given roll number and dataset.
 
