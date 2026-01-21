@@ -77,9 +77,9 @@ The estimated parameters obtained after applying the transformation and learning
 
 | Parameter                  | Value                 |
 | -------------------------- | --------------------- |
-| μ (Mean)                   | 25.805243726878015    |
-| λ (Lambda)                 | 0.0014598199664885554 |
-| c (Normalization Constant) | 0.021556324533226836  |
+| μ (Mean)                   | 25.804091267939096    |
+| λ (Lambda)                 | 0.0014593812811420303 |
+| c (Normalization Constant) | 0.021553085382354755  |
 | μ (Mean)                   | 25.804091267939096    |
 | λ (Lambda)                 | 0.0014593812811420303 |
 | c (Normalization Constant) | 0.021553085382354755  |
