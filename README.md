@@ -80,9 +80,6 @@ The estimated parameters obtained after applying the transformation and learning
 | μ (Mean)                   | 25.804091267939096    |
 | λ (Lambda)                 | 0.0014593812811420303 |
 | c (Normalization Constant) | 0.021553085382354755  |
-| μ (Mean)                   | 25.804091267939096    |
-| λ (Lambda)                 | 0.0014593812811420303 |
-| c (Normalization Constant) | 0.021553085382354755  |
 
 These values are specific to the given roll number and dataset.
 
